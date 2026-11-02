@@ -90,7 +90,7 @@ This story explores fuel taxation and subsidies across different economic groups
 - Subsidy levels compared with tax percentages
 - Fuel prices and subsidy categories
 
-🔗 [**Story 3 link:**] (https://public.tableau.com/app/profile/abdeali.pinangwala/viz/GlobalfuelpricesStory3/story3ProfessorElenaRodriguezEnergyEconomicsResearcher)
+🔗 [**Explore Story 3**](https://public.tableau.com/app/profile/abdeali.pinangwala/viz/GlobalfuelpricesStory3/story3ProfessorElenaRodriguezEnergyEconomicsResearcher)
 *Note: Replace this placeholder with the actual Story 3 URL if it has been published separately.*
 
 ## 🎥 Project Demonstration Video
